@@ -18,6 +18,12 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 
+        /*
+        Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+        Developed by: NANDIKA S
+        RegisterNumber: 212224230175
+        */
+
     import numpy as np
     import matplotlib.pyplot as plt
     x = np.array(eval(input()))
